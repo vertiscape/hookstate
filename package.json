@@ -13,10 +13,10 @@
         "url": "https://github.com/avkonst/hookstate/issues"
     },
     "homepage": "https://github.com/avkonst/hookstate",
-    "main": "dist/index.js",
-    "module": "dist/index.es.js",
-    "jsnext:main": "dist/index.es.js",
-    "types": "dist/index.d.ts",
+    "main": "core/index.js",
+    "module": "core/index.es.js",
+    "jsnext:main": "core/index.es.js",
+    "types": "core/index.d.ts",
     "scripts": {
         "build": "rollup -c",
         "build:w": "rollup -c -w",
